@@ -1,0 +1,9 @@
+streamlit
+langchain
+faiss-cpu
+chromadb
+pypdf
+sentence-transformers
+transformers
+torch
+huggingface_hub
